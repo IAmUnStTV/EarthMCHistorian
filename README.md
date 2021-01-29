@@ -1,4 +1,6 @@
 # EarthMC Historian
+Hello. Would you like to see our latest video?
+You can keep up-to-date at...
 
 ## FAQ
 
