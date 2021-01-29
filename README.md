@@ -12,4 +12,4 @@ A: Why, yes we do! [![Discord](https://img.shields.io/discord/804709519732506646
 A: Open a pull request with your question added on to this file. 
 
 ### Q: How do I support you?
-You can [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange)](https://patreon.com/unsttv)
+A: You can [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange)](https://patreon.com/unsttv)
