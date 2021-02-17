@@ -1,6 +1,6 @@
 # EarthMC Historian
 Hello. Would you like to see our latest video?
-You can keep up-to-date at...
+You can keep up-to-date at [the YouTube channel](https://www.youtube.com/channel/UCeSfl0IWQHySIbdj0PUikhg).
 
 ## FAQ
 
