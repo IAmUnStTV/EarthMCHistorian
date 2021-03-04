@@ -1,6 +1,6 @@
 # EarthMC Historian
 Hello. Would you like to see our latest video?
-You can keep up-to-date at [the YouTube channel](https://www.youtube.com/channel/UCeSfl0IWQHySIbdj0PUikhg).
+You can keep up-to-date at [the YouTube channel](https://www.youtube.com/channel/UCeSfl0IWQHySIbdj0PUikhg) or the [![Discord](https://img.shields.io/discord/804709519732506646?label=Join%20here%21)](https://discord.gg/3tkRnKJxj7)
 
 ## FAQ
 
